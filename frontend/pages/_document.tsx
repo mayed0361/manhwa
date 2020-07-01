@@ -9,7 +9,7 @@ class CustomDocument extends Document {
     render() {
         return (
             <Html lang='ar' dir='rtl'>
-                <Head/>
+                <Head title='Untitled'/>
                 <body>
                 <Main/>
                 <NextScript/>
